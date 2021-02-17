@@ -1,3 +1,13 @@
-body{
-    background-color: darkolivegreen;
+
+
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid #f2a154;
+    padding: 20px;
+    background-color: #f9f871;
+}
+
+h2{
+    margin-top: 0px;
 }
