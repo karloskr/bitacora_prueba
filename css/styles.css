@@ -3,7 +3,7 @@ body{
 }
 
 .main{
-    width: 70%;
+    width: 60%;
     margin: 20px auto;
     border: 1px solid #f2a154;
     padding: 20px;
@@ -12,11 +12,17 @@ body{
 
 h2{
     margin-top: 0px;
+    color: indigo;
 }
 
 .header{
-    background-color: gold;
+    background-color: burlywood;
+    color: white;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0px 5px 10px #ffd56b;
 } 
+
+h3{
+    color: cadetblue;
+}
