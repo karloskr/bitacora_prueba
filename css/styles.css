@@ -11,3 +11,10 @@
 h2{
     margin-top: 0px;
 }
+
+.header{
+    background-color: gold;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 5px 10px #ffd56b;
+} 
