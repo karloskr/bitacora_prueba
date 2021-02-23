@@ -3,21 +3,21 @@ body{
 }
 
 .main{
-    width: 60%;
+    width: 80%;
     margin: 20px auto;
     border: 1px solid #f2a154;
     padding: 20px;
-    background-color: #f9f871;
+    background-color: deeppink;
 }
 
 h2{
     margin-top: 0px;
-    color: indigo;
+    color: dodgerblue;
 }
 
 .header{
-    background-color: burlywood;
-    color: white;
+    background-color: greenyellow;
+    color: indigo;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0px 5px 10px #ffd56b;
