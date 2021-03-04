@@ -1,5 +1,5 @@
 body{
-    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
 }
 
 .main{
@@ -10,17 +10,50 @@ body{
     background-color: #ffbe0f;
 }
 
+figure{
+    margin: 0px;
+    padding: 10px;
+}
+
+figure img{
+   width: 100px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0px;
+}
+
+li{
+    margin: 20px;
+    
+}
+
+li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: orangered;
+    font-family: 'Lato'
+    
+}
+
 h2{
-    margin-top: 0px;
+    margin-top: 10px;
     color: #e40017;
+    font-style: Comic;
 }
 
 .header{
     background-color: yellow;
     color: black;
-    padding: 20px;
+    padding: 5px;
     margin-bottom: 20px;
     box-shadow: 3px 5px 10px gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
 } 
 
 h3{
