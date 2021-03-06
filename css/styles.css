@@ -34,7 +34,8 @@ li a{
     text-decoration: none;
     font-size: 25px;
     color: orangered;
-    font-family: 'Lato'
+    font-family: 'Lato';
+    padding: 10px;
     
 }
 
